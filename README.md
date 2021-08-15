@@ -1,0 +1,1 @@
+Checking gitconfig settings with a git push.
